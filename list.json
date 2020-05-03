@@ -1,0 +1,71 @@
+{
+    "list":[
+        {
+            "no": "1",
+            "item": "Rice",
+            "quantity":"10kg" 
+        },
+        {
+            "no": "2",
+            "item": "Wheat",
+            "quantity":"5kg"
+
+        },
+        {
+            "no": "3",
+            "item": "Rice powder",
+            "quantity":"3kg" 
+        },
+        {
+            "no": "4",
+            "item": "Sugar",
+            "quantity":"2kg" 
+        },
+        {
+            "no": "5",
+            "item": "Salt",
+            "quantity":"1kg" 
+        },
+        {
+            "no": "6",
+            "item": "Oil Kera",
+            "quantity":"1Litre" 
+        },
+        {
+            "no": "7",
+            "item": "Ghee",
+            "quantity":"1kg" 
+        },
+        {
+            "no": "8",
+            "item": "Black Gram",
+            "quantity":"1kg" 
+        },
+        {
+            "no": "9",
+            "item": "Gagiri",
+            "quantity":"500g" 
+        },
+        {
+            "no": "10",
+            "item": "Spilt yellow Gram dal",
+            "quantity":"1kg" 
+        },
+        {
+            "no": "11",
+            "item": "Onion",
+            "quantity":"1kg" 
+        },
+        {
+            "no": "12",
+            "item": "Potatoe",
+            "quantity":"1kg" 
+        },
+        {
+            "no": "13",
+            "item": "Carrots",
+            "quantity":"1kg" 
+        }
+        
+    ]
+}
