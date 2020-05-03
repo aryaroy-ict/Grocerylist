@@ -12,6 +12,9 @@ function ajax(){
                 output += "<th>" + Jlist[i].no +"</th>";
                 output += "<th>" + Jlist[i].item +"</th>";
                 output += "<th>" + Jlist[i].quantity +"</th>";
+                output += "<th>" + Jlist[i].unit +"</th>";
+                output += "<th>" + Jlist[i].dept +"</th>";
+                output += "<th>" + Jlist[i].rem +"</th>";
                 output += "</tr>";
 
             }

@@ -3,68 +3,108 @@
         {
             "no": "1",
             "item": "Rice",
-            "quantity":"10kg" 
+            "quantity":"10",
+            "unit":"Kilogram",
+            "dept":"Food Item",
+            "rem":"Buy only Matta" 
         },
         {
             "no": "2",
             "item": "Wheat",
-            "quantity":"5kg"
+            "quantity":"5",
+            "unit":"Kilogram",
+            "dept":"Food Item",
+            "rem":"Buy only Ashirvad"
+
 
         },
         {
             "no": "3",
             "item": "Rice powder",
-            "quantity":"3kg" 
+            "quantity":"3",
+            "unit":"Kilogram",
+            "dept":"Food Item",
+            "rem":"Buy only Brahmins"
         },
         {
             "no": "4",
             "item": "Sugar",
-            "quantity":"2kg" 
+            "quantity":"2",
+            "unit":"Kilogram",
+            "dept":"Food Item",
+            "rem":"Buy only Brahmins" 
         },
         {
             "no": "5",
             "item": "Salt",
-            "quantity":"1kg" 
+            "quantity":"1",
+            "unit":"Kilogram",
+            "dept":"Food Item",
+            "rem":"Buy only Raw salt" 
         },
         {
             "no": "6",
             "item": "Oil Kera",
-            "quantity":"1Litre" 
+            "quantity":"1",
+            "unit":"Litre",
+            "dept":"Food Item",
+            "rem":"Buy only Kerafed"
         },
         {
             "no": "7",
             "item": "Ghee",
-            "quantity":"1kg" 
+            "quantity":"1",
+            "unit":"Kilogram",
+            "dept":"Food Item",
+            "rem":"Buy only Milma"
         },
         {
             "no": "8",
             "item": "Black Gram",
-            "quantity":"1kg" 
+            "quantity":"1",
+            "unit":"Kilogram",
+            "dept":"Food Item",
+            "rem":"Buy only Brahmins" 
         },
         {
             "no": "9",
             "item": "Gagiri",
-            "quantity":"500g" 
+            "quantity":"500",
+            "unit":"Grams", 
+            "dept":"Food Item",
+            "rem":"Buy only Circle Shaped"
         },
         {
             "no": "10",
             "item": "Spilt yellow Gram dal",
-            "quantity":"1kg" 
+            "quantity":"1",
+            "unit":"Kilogram",
+            "dept":"Food Item",
+            "rem":"Buy only Loose" 
         },
         {
             "no": "11",
             "item": "Onion",
-            "quantity":"1kg" 
+            "quantity":"1",
+            "unit":"Kilogram",
+            "dept":"Food Item",
+            "rem":"Buy only Small"
         },
         {
             "no": "12",
             "item": "Potatoe",
-            "quantity":"1kg" 
+            "quantity":"1",
+            "unit":"Kilogram",
+            "dept":"Food Item",
+            "rem":"Buy only Small" 
         },
         {
             "no": "13",
             "item": "Carrots",
-            "quantity":"1kg" 
+            "quantity":"1",
+            "unit":"Kilogram",
+            "dept":"Food Item",
+            "rem":"Buy only Long" 
         }
         
     ]
